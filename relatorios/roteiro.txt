@@ -1,1 +1,4 @@
 Criar script para a geração de relatórios
+
+Relatórios dos modelos de machine learnikng
+Colocar o gráficos
